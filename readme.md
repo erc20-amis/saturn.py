@@ -1,4 +1,4 @@
-# `PrimeFinders`
+# `Saturn.py`
 
 [![Generic badge](https://img.shields.io/badge/github-saturn-blue.svg)](https://github.com/erc20-amis/saturn.py) 
 [![PyPI version](https://badge.fury.io/py/saturn.svg)](https://badge.fury.io/py/saturn) 
