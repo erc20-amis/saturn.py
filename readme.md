@@ -1,3 +1,15 @@
+# `PrimeFinders`
+
+[![Generic badge](https://img.shields.io/badge/github-saturn-blue.svg)](https://github.com/erc20-amis/saturn.py) 
+[![PyPI version](https://badge.fury.io/py/saturn.svg)](https://badge.fury.io/py/saturn) 
+[![Build Status](https://travis-ci.org/erc20-amis/saturn.py.svg?branch=master)](https://travis-ci.org/erc20-amis/saturn.py) 
+[![codecov](https://codecov.io/gh/erc20-amis/saturn.py/branch/master/graph/badge.svg)](https://codecov.io/gh/erc20-amis/saturn.py) 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/)](https://www.codacy.com/app/erc20-amis/saturn.py?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=erc20-amis/saturn.py&amp;utm_campaign=Badge_Grade)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erc20-amis/saturn.py/master)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erc20-amis/saturn.py/blob/master/saturn.ipynb)
+[![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/erc20-amis/saturn.py/blob/master/saturn.ipynb)
+
+
 <img src="https://forum.saturn.network/uploads/default/original/2X/e/e87ea6b5fb70b6044373d83cc89eb2d8a6c86449.png">
 
 # Saturn.py
