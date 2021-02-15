@@ -25,7 +25,6 @@ eth-typing==2.2.1
 eth-utils==1.8.4
 ethereum==2.3.2
 future==0.18.2
-GDAL==2.4.2
 hexbytes==0.2.0
 idna==2.8
 importlib-metadata==0.23
