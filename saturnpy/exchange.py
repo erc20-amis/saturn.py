@@ -41,6 +41,8 @@ class ExchangeInterface(object):
         blockchain = blockchain.lower()
         if blockchain == "etc":
             return 61
+        if blockchain == "xdai":
+            return 100
         if blockchain == "eth":
             return 1
         raise Exception(f'UNSUPPORTED BLOCKCHAIN: {blockchain}')
@@ -57,7 +59,9 @@ class ExchangeInterface(object):
             blockchain = blockchain.upper()
 
         if blockchain == 'ETC':
-            return self.provider.toWei('0.001', 'gwei')
+            return self.provider.toWei('1', 'gwei')
+        if blockchain == 'xdai':
+            return self.provider.toWei('1', 'gwei')        
         if blockchain == 'ETH':
             req = requests.get('https://www.ethgasstationapi.com/api/standard')
             return self.provider.toWei(str(req.json()), 'gwei')
